@@ -40,7 +40,6 @@ INSTALLED_APPS = [
 
     # Applications created by me
 
-    'blog',
     'student',
 ]
 
